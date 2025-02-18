@@ -314,5 +314,3 @@ function DeviceDetail() {
 }
 
 export default DeviceDetail;
-
-export default DeviceDetail
